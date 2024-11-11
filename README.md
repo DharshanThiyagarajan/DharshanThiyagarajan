@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @DharshanThiyagarajan
 - 👀 I’m interested in learning more abt celestials
 - 🌱 I’m currently doing bachelors degree in the stream of Electronics & Communication
-- 📫 yew can reach mee through my email: dharshan.tlda@gmail.com
+- 📫 yew can reach mee through my 📧 dharshan.tlda@gmail.com
+-  🔗 www.linkedin.com/in/dharshan-thiyagarajan-b4848225a
 - 😄 Pronouns: dharshan✌️
 
 <!---
